@@ -1,0 +1,15 @@
+input {
+  width: 60px;
+  padding: 5px;
+  text-align: center;
+}
+
+.pass {
+  color: green;
+  font-weight: bold;
+}
+
+.fail {
+  color: red;
+  font-weight: bold;
+}
